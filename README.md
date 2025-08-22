@@ -5,26 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdroshanvp&label=Profile%20views&color=0e75b6&style=flat" alt="mhdroshanvp" /> </p>
 
-- 🔭 I’m currently working on **a full MERN stack project**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently learning **React js,redux**
-
-- 💬 Ask me about **react,redux,node,**
-
-- 📫 How to reach me **roshanvp2004@gmail.com**
-
-- ⚡ Fun fact **I'm just 19 🙂**
+- 📫 How to reach me **roshanvp.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mhdroshanvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mhdroshanvp" height="30" width="40" /></a>
-<a href="https://dev.to/is_it_roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="is_it_roshan" height="30" width="40" /></a>
-<a href="https://twitter.com/is_it_roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is_it_roshan" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/muhammed-roshan-vp-123615277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-roshan-vp-123615277" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/roshanvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roshanvp" height="30" width="40" /></a>
-<a href="https://instagram.com/ciao.roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ciao.roshan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muhammedroshanvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammedroshanvp" height="30" width="40" /></a>
-<a href="https://discord.gg/aespathicks#1554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aespathicks#1554" height="30" width="40" /></a>
+<a href="https://roshanvp.vercel.app/" target="blank"><img align="center" src="https://roshanvp.vercel.app/" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
