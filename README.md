@@ -7,8 +7,4 @@
 
 - 🔭 I’m currently working as a **Backend Developer**
 
-- 📫 How to reach me **roshanvp.dev@gmail.com**
-
-- Or
-
-- <a href="https://roshanvp.vercel.app/" target="blank">Portfolio</a>
+- 📫 How to reach me **roshanvp.dev@gmail.com**  Or  <a href="https://roshanvp.vercel.app/" target="blank">Portfolio</a>
