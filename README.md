@@ -9,12 +9,6 @@
 
 - 📫 How to reach me **roshanvp.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Or
 
-<a href="https://linkedin.com/in/muhammed-roshan-vp-123615277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-roshan-vp-123615277" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/muhammedroshanvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammedroshanvp" height="30" width="40" /></a>
-
-<a href="https://roshanvp.vercel.app/" target="blank">Portfolio</a>
-</p>
+- <a href="https://roshanvp.vercel.app/" target="blank">Portfolio</a>
